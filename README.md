@@ -18,7 +18,7 @@ Everything you need to learn in chronological order to become a professional Ang
 - [Functional programming with TypeScript](http://rachelappel.com/write-object-oriented-javascript-with-typescript/)
 
 ## RxJS:
-- [What is RxJS]: https://css-tricks.com/animated-intro-rxjs/
+- [What is RxJS](https://css-tricks.com/animated-intro-rxjs)
 - [The introduction to reactive programming with RxJS](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [RxJS Video Course](https://www.youtube.com/watch?v=Tux1nhBPl_w)
 - [Learn RxJS - Organised API Reference](https://www.learnrxjs.io/)
