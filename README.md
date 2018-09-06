@@ -4,7 +4,7 @@ Curated chronological list of learning resources for Angular, from complete begi
 
 
 
-## ⇒ Prerequisites 
+# ⇒ Prerequisites 
 
 ### Javascript:
 
@@ -26,7 +26,7 @@ Curated chronological list of learning resources for Angular, from complete begi
 - [Learn RxJS](https://www.learnrxjs.io/)
 
 
-## ⇒ Beginner
+# ⇒ Beginner
 - [Official Docs](https://angular.io)
 - [Getting started official tutorial](https://angular.io/docs)
 - [Components & Templates](https://angular.io/guide/displaying-data)
@@ -36,7 +36,7 @@ Curated chronological list of learning resources for Angular, from complete begi
 - [Programming Style guide](https://angular.io/guide/styleguide)
 
 
-## ⇒ Intermediate
+# ⇒ Intermediate
 - [Managing projects with Angular CLI](https://www.intertech.com/Blog/angular-tutorial-getting-started-with-the-angular-cli/)
 - [Angular HTTP Client](https://angular.io/guide/http)
 - [Reactive Forms](https://angular.io/guide/reactive-forms)
@@ -44,7 +44,7 @@ Curated chronological list of learning resources for Angular, from complete begi
 - [Angular Material Components](https://material.angular.io/)
 - [Automated testing](https://angular.io/guide/testing)
 
-## ⇒ Advanced
+# ⇒ Advanced
 
 ### State management:
 - [NGRX - Angular Statement management library](https://github.com/ngrx/platform)
@@ -72,7 +72,7 @@ Curated chronological list of learning resources for Angular, from complete begi
 - [Publishing Angular Component libraries](https://medium.com/@faxemaxee/building-and-publishing-angular-libraries-using-angular-cli-140057d21101)
 
 
-## Useful Blogs / Video courses / Youtube Channels / Example apps
+# Useful Blogs / Video courses / Youtube Channels / Example apps
 
 - [Angular Udemy video Course from, beginner to Pro level (~$10)](https://www.udemy.com/the-complete-guide-to-angular-2/)
 - [Angular Firebase - Quick short tutorials on advanced topics](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
