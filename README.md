@@ -1,7 +1,7 @@
 # Angular learning resources
 
 Curated list of learning resources for Angular, from complete beginner to advanced level.
-Everything you need to learn in chronological order to become professional Angular developer.
+Everything you need to learn in chronological order to become a professional Angular developer.
 
 
 # ⇒ Prerequisites 
