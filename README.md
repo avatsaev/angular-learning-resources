@@ -3,11 +3,9 @@
 Curated list of learning resources for Angular, from complete beginner to advanced level.
 Everything you need to learn in chronological order to become a professional Angular developer.
 
-
 # ⇒ Prerequisites 
 
 ### Javascript:
-
 
 - [JavaScript ES6 tutorial](https://codeburst.io/es6-tutorial-for-beginners-5f3c4e7960be)
 - [Principles of functional programming in JavaScript](https://flaviocopes.com/javascript-functional-programming/)
@@ -20,10 +18,10 @@ Everything you need to learn in chronological order to become a professional Ang
 - [Functional programming with TypeScript](http://rachelappel.com/write-object-oriented-javascript-with-typescript/)
 
 ## RxJS:
-
+- [What is RxJS]: https://css-tricks.com/animated-intro-rxjs/
 - [The introduction to reactive programming with RxJS](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [RxJS Video Course](https://www.youtube.com/watch?v=Tux1nhBPl_w)
-- [Learn RxJS](https://www.learnrxjs.io/)
+- [Learn RxJS - Organised API Reference](https://www.learnrxjs.io/)
 
 
 # ⇒ Beginner
@@ -42,14 +40,14 @@ Everything you need to learn in chronological order to become a professional Ang
 - [Reactive Forms](https://angular.io/guide/reactive-forms)
 - [Angular Routing & Navigation](https://angular.io/guide/router)
 - [Angular Material Components](https://material.angular.io/)
-- [Automated testing](https://angular.io/guide/testing)
+- [Testing](https://angular.io/guide/testing)
 
 # ⇒ Advanced
 
 ### State management:
-- [NGRX - Angular Statement management library](https://github.com/ngrx/platform)
-- [Quick intro to Redux Style state management with NGRX](https://www.youtube.com/watch?v=f97ICOaekNU)
-- [State management with NGRX Tutorial](https://coursetro.com/posts/code/151/Angular-Ngrx-Store-Tutorial---Learn-Angular-State-Management)
+- [NGRX - Angular state management library](https://github.com/ngrx/platform)
+- [Quick intro to Redux style state management with NGRX](https://www.youtube.com/watch?v=f97ICOaekNU)
+- [State management with NGRX tutorial](https://coursetro.com/posts/code/151/Angular-Ngrx-Store-Tutorial---Learn-Angular-State-Management)
 - [In depth introduction to NGRX/Redux state management](https://medium.com/@bencabanes/redux-introduction-with-ngrx-part-1-store-application-state-2c47c35376ea)
 - [NGRX advanced patterns & techniques](https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5)
 
@@ -62,14 +60,14 @@ Everything you need to learn in chronological order to become a professional Ang
 
 
 ### Perfomance:
-- [Performance guide for Angular Applications](https://blog.angular.io/3-tips-for-angular-runtime-performance-from-the-real-world-d467fbc8f66e)
+- [Performance guide for Angular apps](https://blog.angular.io/3-tips-for-angular-runtime-performance-from-the-real-world-d467fbc8f66e)
 - [Optimizing performance in Angular apps](https://netbasal.com/optimizing-the-performance-of-your-angular-application-f222f1c16354)
 - [OnPush change detection strategy in details](https://netbasal.com/a-comprehensive-guide-to-angular-onpush-change-detection-strategy-5bac493074a4)
 
 ### Angular libraries:
 
-- [Creating Angular Libraries with Angular CLI](https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5)
-- [Publishing Angular Component libraries](https://medium.com/@faxemaxee/building-and-publishing-angular-libraries-using-angular-cli-140057d21101)
+- [Creating Angular libraries with Angular CLI](https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5)
+- [Publishing Angular component libraries](https://medium.com/@faxemaxee/building-and-publishing-angular-libraries-using-angular-cli-140057d21101)
 
 
 # Useful Blogs / Video courses / Youtube Channels / Example apps
