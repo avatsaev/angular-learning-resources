@@ -14,6 +14,7 @@ Everything you need to learn in chronological order to become a professional Ang
 ### TypeScript:
 
 - [Official Documentation](https://www.typescriptlang.org/docs/home.html)
+- [Official Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 - [Object Oriented Programming with TypeScript](http://rachelappel.com/write-object-oriented-javascript-with-typescript/)
 - [Functional programming with TypeScript](http://rachelappel.com/write-object-oriented-javascript-with-typescript/)
 
@@ -35,7 +36,7 @@ Everything you need to learn in chronological order to become a professional Ang
 
 
 # ⇒ Intermediate
-- [Managing projects with Angular CLI](https://www.intertech.com/Blog/angular-tutorial-getting-started-with-the-angular-cli/)
+- [Managing projects with Angular CLI](https://github.com/angular/angular-cli/wiki)
 - [Angular HTTP Client](https://angular.io/guide/http)
 - [Reactive Forms](https://angular.io/guide/reactive-forms)
 - [Angular Routing & Navigation](https://angular.io/guide/router)
