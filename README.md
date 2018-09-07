@@ -16,7 +16,7 @@ Everything you need to learn in chronological order to become a professional Ang
 - [Official Documentation](https://www.typescriptlang.org/docs/home.html)
 - [Official Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 - [Object Oriented Programming with TypeScript](http://rachelappel.com/write-object-oriented-javascript-with-typescript/)
-- [https://vsavkin.com/functional-typescript-316f0e003dc6](http://rachelappel.com/write-object-oriented-javascript-with-typescript/)
+- [Functional programming with TypeScript](https://vsavkin.com/functional-typescript-316f0e003dc6)
 
 ## RxJS:
 - [What is RxJS](https://css-tricks.com/animated-intro-rxjs)
