@@ -18,12 +18,6 @@ Everything you need to learn in chronological order to become a professional Ang
 - [Object Oriented Programming with TypeScript](http://rachelappel.com/write-object-oriented-javascript-with-typescript/)
 - [Functional programming with TypeScript](https://vsavkin.com/functional-typescript-316f0e003dc6)
 
-## RxJS:
-- [What is RxJS](https://css-tricks.com/animated-intro-rxjs)
-- [The introduction to reactive programming with RxJS](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
-- [RxJS Video Course](https://www.youtube.com/watch?v=Tux1nhBPl_w)
-- [Learn RxJS - Organised API Reference](https://www.learnrxjs.io/)
-
 
 # ⇒ Beginner
 - [Official Docs](https://angular.io)
@@ -36,6 +30,14 @@ Everything you need to learn in chronological order to become a professional Ang
 
 
 # ⇒ Intermediate
+
+### Reactive programming - RxJS:
+- [What is RxJS](https://css-tricks.com/animated-intro-rxjs)
+- [The introduction to reactive programming with RxJS](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [RxJS Video Course](https://www.youtube.com/watch?v=Tux1nhBPl_w)
+- [Learn RxJS - Organised API Reference](https://www.learnrxjs.io/)
+
+### Going further with Angular:
 - [Managing projects with Angular CLI](https://github.com/angular/angular-cli/wiki)
 - [Angular HTTP Client](https://angular.io/guide/http)
 - [Reactive Forms](https://angular.io/guide/reactive-forms)
