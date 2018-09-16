@@ -15,6 +15,7 @@ Everything you need to learn in chronological order to become a professional Ang
 
 - [Official Documentation](https://www.typescriptlang.org/docs/home.html)
 - [Official Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)
+- [TS deepdive Gitbook by Basarat Syed](https://basarat.gitbooks.io/typescript/)
 - [Object Oriented Programming with TypeScript](http://rachelappel.com/write-object-oriented-javascript-with-typescript/)
 - [Functional programming with TypeScript](https://vsavkin.com/functional-typescript-316f0e003dc6)
 
