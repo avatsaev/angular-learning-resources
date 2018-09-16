@@ -55,6 +55,11 @@ Everything you need to learn in chronological order to become a professional Ang
 - [In depth introduction to NGRX/Redux state management](https://medium.com/@bencabanes/redux-introduction-with-ngrx-part-1-store-application-state-2c47c35376ea)
 - [NGRX advanced patterns & techniques](https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5)
 
+#### Altervnatives to NGRX:
+
+- [NGXS](https://github.com/ngxs/store)
+- [Akita](https://netbasal.gitbook.io/akita/entity-store/blog-posts)
+
 ### Dependency injection:
  - [Advanced dependency injection](https://angular.io/guide/dependency-injection-providers)
  - [Dependency inversion](https://netbasal.com/demystifying-the-dependency-inversion-principle-in-angular-a2daca9b05ee)
