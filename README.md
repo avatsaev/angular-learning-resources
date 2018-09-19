@@ -77,7 +77,7 @@ Everything you need to learn in chronological order to become a professional Ang
 
 ### Angular libraries:
 
-- [Creating Angular libraries with Angular CLI](https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5)
+- [Creating Angular libraries with Angular CLI](https://blog.angulartraining.com/create-your-own-libraries-with-angular-cli-7b434600bbb7)
 - [Publishing Angular component libraries](https://medium.com/@faxemaxee/building-and-publishing-angular-libraries-using-angular-cli-140057d21101)
 
 
