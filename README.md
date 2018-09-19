@@ -37,6 +37,8 @@ Everything you need to learn in chronological order to become a professional Ang
 - [The introduction to reactive programming with RxJS](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [RxJS Video Course](https://www.youtube.com/watch?v=Tux1nhBPl_w)
 - [Learn RxJS - Organised API Reference](https://www.learnrxjs.io/)
+- [RxMarbles: Interactive diagrams of Rx Observables](http://rxmarbles.com/)
+- [RxJS Docs](https://rxjs-dev.firebaseapp.com/)
 
 ### Going further with Angular:
 - [Managing projects with Angular CLI](https://github.com/angular/angular-cli/wiki)
@@ -55,7 +57,7 @@ Everything you need to learn in chronological order to become a professional Ang
 - [In depth introduction to NGRX/Redux state management](https://medium.com/@bencabanes/redux-introduction-with-ngrx-part-1-store-application-state-2c47c35376ea)
 - [NGRX advanced patterns & techniques](https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5)
 
-#### Altervnatives to NGRX:
+#### Alternatives to NGRX:
 
 - [NGXS](https://github.com/ngxs/store)
 - [Akita](https://netbasal.gitbook.io/akita/entity-store/blog-posts)
