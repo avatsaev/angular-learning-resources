@@ -45,7 +45,8 @@ Everything you need to learn in chronological order to become a professional Ang
 - [Angular HTTP Client](https://angular.io/guide/http)
 - [Reactive Forms](https://angular.io/guide/reactive-forms)
 - [Angular Routing & Navigation](https://angular.io/guide/router)
-- [Angular Material Components](https://material.angular.io/)
+- [Angular Material Component Library](https://material.angular.io/)
+- [Nebular Component Library](https://akveo.github.io/nebular/)
 - [Testing](https://angular.io/guide/testing)
 
 # ⇒ Advanced
