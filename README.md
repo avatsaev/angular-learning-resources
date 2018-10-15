@@ -88,6 +88,7 @@ Everything you need to learn in chronological order to become a professional Ang
 - [Angular Firebase - Quick short tutorials on advanced topics](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 - [Angular MIX - Youtube Channel](https://www.youtube.com/channel/UCnUpEUN4V3iJxoUximdr6Nw/videos)
 - [Todd Motto - Youtube Channel](https://www.youtube.com/channel/UCNtFk-g4CCmXMYL4pYNmoEA/videos)
+- [Free Angular courses from Coursetro - YouTube](http://www.youtube.com/user/designcourse)
 - [Todd Motto - Blog](https://toddmotto.com/)
 - [Angular Subreddit](https://www.reddit.com/r/Angular2/)
 - [Angular In Depth - Advanced understanding of inner workings](https://blog.angularindepth.com/)
