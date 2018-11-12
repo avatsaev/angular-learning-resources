@@ -21,8 +21,8 @@ Everything you need to learn in chronological order to become a professional Ang
 
 
 # ⇒ Beginner
+- [Getting started official tutorial](https://angular.io/tutorial)
 - [Official Docs](https://angular.io)
-- [Getting started official tutorial](https://angular.io/docs)
 - [Components & Templates](https://angular.io/guide/displaying-data)
 - [Component interaction](https://angular.io/guide/component-interaction)
 - [Structural Directives](https://angular.io/guide/structural-directives)
