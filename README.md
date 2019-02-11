@@ -52,6 +52,7 @@ Everything you need to learn in chronological order to become a professional Ang
 # ⇒ Advanced
 
 ### State management:
+- [Simple and powerful state management with Services and RxJS (for 90% of cases this method of state management is more than enough)](https://dev.to/avatsaev/simple-state-management-in-angular-with-only-services-and-rxjs-41p8)
 - [NGRX - Angular state management library](https://github.com/ngrx/platform)
 - [Quick intro to Redux style state management with NGRX](https://www.youtube.com/watch?v=f97ICOaekNU)
 - [State management with NGRX tutorial](https://coursetro.com/posts/code/151/Angular-Ngrx-Store-Tutorial---Learn-Angular-State-Management)
