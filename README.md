@@ -33,6 +33,7 @@ Everything you need to learn in chronological order to become a professional Ang
 # ⇒ Intermediate
 
 ### Reactive programming - RxJS:
+- [Introduction to RxJS - RxJS Primer](https://www.learnrxjs.io/concepts/rxjs-primer.html)
 - [The introduction to reactive programming with RxJS](https://www.learnrxjs.io/)
 - [RxJS Video Course](https://www.youtube.com/watch?v=Tux1nhBPl_w)
 - [Learn RxJS - Organised API Reference](https://www.learnrxjs.io/)
