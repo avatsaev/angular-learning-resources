@@ -85,7 +85,7 @@ Everything you need to learn in chronological order to become a professional Ang
 
 # Useful Blogs / Video courses / Youtube Channels / Example apps
 
-<a href="https://ultimatecourses.com/topic/angular/ref/azero79/" title="Ultimate Courses"><img src="https://ultimatecourses.com/assets/img/banners/ultimate-angular-github.svg" alt="Ultimate Courses" /></a>
+<a href="https://ultimatecourses.com/courses/angular/ref/azero79/" title="Ultimate Courses"><img src="https://ultimatecourses.com/assets/img/banners/ultimate-angular-github.svg" alt="Ultimate Courses" /></a>
 
 - [Angular Udemy video Course from, beginner to Pro level (~$10)](https://www.udemy.com/the-complete-guide-to-angular-2/)
 - [Angular Firebase - Quick short tutorials on advanced topics](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
