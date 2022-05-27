@@ -98,6 +98,7 @@ Everything you need to learn in chronological order to become a professional Ang
 - [Angular In Depth - Advanced understanding of inner workings](https://blog.angularindepth.com/)
 - [Netanel Basal - Advanced Practical Tutorials](https://netbasal.com/@NetanelBasal)
 - [Full Stack Contacts Book example app (Components, Services, Routing, Http, Forms, Lazy loading, Sockets, NGRX State management, NGRX HTTP+Socket.IO Side Effects management, NGRX Entity management...)](https://github.com/avatsaev/angular-contacts-app-example)
+- [List of free and paid Angular courses](https://skillcombo.com/topic/angular/)
 
 
 
